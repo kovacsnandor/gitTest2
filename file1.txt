@@ -2,5 +2,6 @@ file1
 módosítás main
 módosítás2 NewBranch
 módosítás3 NewBranch
+módosítás NewBranch
 módsoítás3 main
 
